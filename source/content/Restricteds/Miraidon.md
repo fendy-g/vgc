@@ -3,7 +3,6 @@
 ### Common spreads
 - 44 HP / 4 Def / 244 SpA / 12 SpD / 204 Spe
 	- Luca Ceribelli World 2024
-https://victoryroad.pro/2024/09/22/luca-ceribelli-worlds-report/
 ### Common Teras
 - Fairy
 ### Items

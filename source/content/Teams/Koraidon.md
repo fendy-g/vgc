@@ -1,2 +1,0 @@
-
-### Wolfe's EUIC 
